@@ -14,7 +14,7 @@ CYAN='\033[0;36m'
 YELLOW='\033[1;33m' 
 
 echo -e "${RED}Shell commands to install Discord in a traditional way:"
-echo -e "${CYAN}0) ${YELLOW}download the discord for linux"
+echo -e "${CYAN}0) ${YELLOW}download the discord for linux from https://discord.com/download"
 echo -e "${CYAN}1) ${YELLOW}In the download directory run sudo tar -xvzf discord-0.0.10.tar.gz -C /opt"
 echo -e "${CYAN}2) ${YELLOW}sudo ln -sf /opt/Discord/Discord /usr/bin/Discord"
 echo -e "${CYAN}3) ${YELLOW}sudo edit the discord.desktop in /opt/Discord for Exec=/usr/share/discord/Discord and \nIcon=discord"
