@@ -12,4 +12,4 @@ You will get the steps to follow and install Discord app on your linux machine!
 
 Also, change the [YOUR_DISCORD_VERSION] to the version you have downloaded.
 
-For any issues in the download and installation raise the issue!
+Raise issues regarding the installation while reading the steps. Thank you!
