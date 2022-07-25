@@ -10,4 +10,6 @@ and then run the script as a command on the terminal:
 
 You will get the steps to follow and install Discord app on your linux machine!
 
+Also, change the [YOUR_DISCORD_VERSION] to the version you have downloaded.
+
 For any issues in the download and installation raise the issue!
